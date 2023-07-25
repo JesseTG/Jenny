@@ -4,6 +4,8 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>$(DefaultNetTargetFramework)</TargetFramework>
     <Version>1.2.0</Version>
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>jenny</ToolCommandName>
   </PropertyGroup>
 
   <ItemGroup>
